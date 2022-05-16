@@ -25,7 +25,7 @@ O projeto possui objetivos a cada episódio, a saber:
 
 ## Funcionalidades
 - Tela Home (início): Tela inicial, onde mostra a lista de filmes cadastradas com páginas de navegação.
-- Tela de Avaliação: Tela para avaliar o filme selecionado de informações da Tela Home.
+- Tela de Avaliação: Tela para avaliar os filmes selecionados de informações da Tela Home.
 
 ## Link do Projeto
 - Para acessar o projeto desenvolvido <a href="https://yasminvieira.github.io/dsmovie/" target="_blank">aqui</a>.
